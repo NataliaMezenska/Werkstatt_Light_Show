@@ -1,1 +1,3 @@
-# Creative-technology---Natalia-Jeroen-Fiene
+# Werkstatt Light Show
+## Project idea
+This project is a live-controlled light installation made for the reopening of Werkstatt, a cozy cultural bar and nightlife venue in the old town of Chur. The idea was to create an engaging light show that supports the DJ and band performances and makes the stage stand out. Instead of using fully automatic, music-reactive lights, the visuals were controlled by hand in TouchDesigner, allowing for a better match with the beat and mood of the music. This made the light show feel more natural and cleaner. The system changes colors, rhythm, and brightness in real time, adjusted to each performer. By discussing the visual style with both the DJ and the band, the experience became enjoyable not only for the audience, but also for the artists on stage.
