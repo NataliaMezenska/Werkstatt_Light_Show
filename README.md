@@ -7,6 +7,17 @@ This project is a live-controlled light installation made for the reopening of W
 
 <img src="component-diagram.png" width="900" alt="Component diagram">
 
+### Hardware:
+- Microphone: Picking up the sound
+- Latlights: The actual visuals
+- Wifi Router: Connect everything on the location
+- XLR converter: Connect the wifi to the latlights
+- 4 Drawers with electronics: This will run the latlights.
+
+### Software:
+Touchdesigner: Makes the system work.
+
+
 ### Reproducibility: 
 01. Connect Latlights
 02. Make sure the internet is connected
@@ -22,16 +33,6 @@ This project is a live-controlled light installation made for the reopening of W
 12. Make a ramp with a cool colour scheme
 13. Connect the level and ramp to a top: Comp
 14. Add that to the Latlights
-
-### Hardware:
-- Microphone: Picking up the sound
-- Latlights: The actual visuals
-- Wifi Router: Connect everything on the location
-- XLR converter: Connect the wifi to the latlights
-- 4 Drawers with electronics: This will run the latlights.
-
-### Software:
-Touchdesigner: Makes the system work.
 
 ### Touch Designer:
 <img src="touchdesigner-musicreactive.png" width="900" alt="touch designer music reactive">
